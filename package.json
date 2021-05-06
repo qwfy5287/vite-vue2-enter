@@ -1,0 +1,17 @@
+{
+  "name": "vite-vue2-enter",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "vite-plugin-vue2": "^1.4.4",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.2.3"
+  }
+}
